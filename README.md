@@ -1,2 +1,2 @@
 # Messenger Application
- Final Project using Laravel & Pusher Service
+ Final Project using Laravel, Vuejs & Pusher Service
